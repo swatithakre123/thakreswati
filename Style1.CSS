@@ -1,0 +1,45 @@
+body 
+{
+        background-image:url('tree2.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        height: 400px;
+}
+#container{
+  float: left;
+   height:200%;
+   width:50%;
+   background-color:aliceblue;
+   opacity: 0.4;
+}
+.header, a 
+ {
+      text-decoration: none;
+      color: white;
+       margin-left: 60px;
+       font-weight: bold;
+ }
+ .logo 
+ {
+            font-size: 25px;
+            font-weight: 600;
+            margin-right: 600px;
+ }
+ #blank{
+      height: 180px;
+      border-top-width: 70px;
+
+ }
+ #chi{
+    font-size: 180px;
+    color:black;
+    opacity: 1;
+    text-align:right ;
+ }
+ #Right{
+    height:200%;
+    display: inline row;
+    float: left;
+ }
+
