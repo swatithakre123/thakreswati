@@ -1,0 +1,28 @@
+.navbar{
+    background-color: black;
+    display: flex;
+   justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+li{
+   display: inline;
+   flex-direction: row;
+  
+}
+#outer{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+}
+#inner{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(71, 2, 2);
+}
